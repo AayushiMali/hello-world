@@ -2,5 +2,5 @@
 
 Hello everyone,
  
-I am Aayushi Mali. I am an Software Engineer and currently pursuing my postgraduation 
+I am Aayushi Mali. I am an Software Engineer and recently completed my postgraduation 
 from Conestoga college in Mobile solution Development course.
